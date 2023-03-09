@@ -1,0 +1,48 @@
+#main-index{
+    background-color: rgba(0, 0, 0,0.6);
+}
+#banner{
+    background-image: url("./netflickBack.png");
+    height: 768px;
+   
+}
+#shade{
+    height: 768px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+main{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Layout-style{
+    margin-top: 10px;
+    background-color: rgb(0, 0,0);
+    height: 400px;
+}
+.Layout-style2{
+    margin-top: 10px;
+    background-color: rgb(0, 0,0);
+    height: 400px;
+}
+.Layout-style3{
+    margin-top: 10px;
+    background-color: rgb(0, 0,0);
+    height: 400px;
+}
+.Layout-style4{
+    margin-top: 10px;
+    background-color: rgb(0, 0,0);
+    height: 400px;
+}
+.Layout-style5{
+    margin-top: 10px;
+    background-color: rgb(0, 0,0);
+    height: auto;
+}
+footer{
+    margin-top: 10px;
+    background-color: rgb(0, 0,0);
+    height: 400px;
+}

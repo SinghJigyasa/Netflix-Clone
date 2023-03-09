@@ -1,0 +1,24 @@
+#HeadDesign{
+    margin-left: 320px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 30px;
+}
+AccordionButton{
+    background-color: grey;
+}
+
+#AccoDesign{
+    width: 700px;
+    margin-left: 320px;
+    margin-top: 30px;
+    font-size: 20px;    
+}
+#down{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: auto;
+}
+/* <h1 className="text-white mt-5">Frequently Asked Questions</h1>*/

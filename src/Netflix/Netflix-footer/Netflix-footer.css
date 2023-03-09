@@ -1,0 +1,11 @@
+#row1{
+    height: 100px;
+   color: rgba(180, 164, 164, 0.536);
+}
+li{
+    color: rgba(180, 164, 164, 0.536);
+}
+#footer{
+    width: 800px;
+    margin-left: 200px;
+}
